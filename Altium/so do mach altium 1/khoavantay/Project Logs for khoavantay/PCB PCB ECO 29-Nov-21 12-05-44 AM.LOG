@@ -1,0 +1,12 @@
+Change Component Description : Designator=C6 Old Description=C?m New Description=C?m
+Change Component Description : Designator=LS1 Old Description=C?m New Description=C?m
+Added Pin To Net: NetName=B0 Pin=R5-2
+Added Pin To Net: NetName=B1 Pin=R6-2
+Added Pin To Net: NetName=B2 Pin=R7-2
+Added Pin To Net: NetName=B3 Pin=R8-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R2-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetLS1_2 Pin=LS1-2
+Added Pin To Net: NetName=NetLS1_2 Pin=R3-2
+Added Net: Name=NetLS1_2

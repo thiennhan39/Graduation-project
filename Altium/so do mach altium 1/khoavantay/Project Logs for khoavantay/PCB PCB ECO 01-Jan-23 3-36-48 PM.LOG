@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=RX Pin=C2-2
+Removed Pin From Net: NetName=TX Pin=C2-3
+Removed Pin From Net: NetName=GND Pin=C2-4
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=NetC5_2 Pin=IC1-1
+Removed Pin From Net: NetName=GND Pin=IC1-2
+Removed Pin From Net: NetName=B0 Pin=JP1-1
+Removed Pin From Net: NetName=B1 Pin=JP1-2
+Removed Pin From Net: NetName=B2 Pin=JP1-3
+Removed Pin From Net: NetName=B3 Pin=JP1-4
+Removed Pin From Net: NetName=B4 Pin=JP1-5
+Removed Pin From Net: NetName=B5 Pin=JP1-6
+Removed Pin From Net: NetName=B6 Pin=JP1-7
+Removed Pin From Net: NetName=B7 Pin=JP1-8
+Removed Pin From Net: NetName=5V Pin=Q1-1
+Removed Pin From Net: NetName=MCLR Pin=R1-1
+Removed Member From Class: ClassName=schematic Member=C2
+Removed Member From Class: ClassName=schematic Member=D3
+Removed Member From Class: ClassName=schematic Member=IC2
+Change Component DesignItemId : Designator=JP1 Old DesignItemId=JP8 New DesignItemId=JP4x2
+Change Component Footprint: Designator=JP1 Old Footprint=JP8 New Footprint=JP4x2
+Change Component Comment : Designator=JP1 Old Comment=JP8 PIN New Comment=Connector 4x2
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=IC2 NewDesignator=IC1
+Change Component Description : Designator=C6 Old Description=C?m New Description=C?m
+Change Component Description : Designator=LS1 Old Description=C?m New Description=C?m
+Added Component: Designator=JP2(Header8)
+Added Component: Designator=JP3(JP8)
+Added Component: Designator=R2(tro smd 0603)
+Added Component: Designator=U2(SOT223-4N)
+Added Pin To Net: NetName=NetC5_2 Pin=IC1-1
+Added Pin To Net: NetName=RX Pin=JP1-1
+Added Pin To Net: NetName=GND Pin=JP1-5
+Added Pin To Net: NetName=TX Pin=JP1-8
+Added Pin To Net: NetName=GND Pin=JP2-6
+Added Pin To Net: NetName=B0 Pin=JP1-1
+Added Pin To Net: NetName=B1 Pin=JP1-2
+Added Pin To Net: NetName=B2 Pin=JP1-3
+Added Pin To Net: NetName=B3 Pin=JP1-4
+Added Pin To Net: NetName=B4 Pin=JP1-5
+Added Pin To Net: NetName=B5 Pin=JP1-6
+Added Pin To Net: NetName=B6 Pin=JP1-7
+Added Pin To Net: NetName=B7 Pin=JP1-8
+Added Pin To Net: NetName=MCLR Pin=R1-1
+Added Pin To Net: NetName=5V Pin=R1-2
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=5V Pin=U2-3
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD3_4 New Net Name=NetD2_4
+Added Pin To Net: NetName=3.3V Pin=JP1-3
+Added Pin To Net: NetName=3.3V Pin=JP1-4
+Added Pin To Net: NetName=3.3V Pin=JP2-8
+Added Pin To Net: NetName=3.3V Pin=U2-2
+Added Net: Name=3.3V
+Added Pin To Net: NetName=CS Pin=JP2-1
+Added Pin To Net: NetName=CS Pin=U1-15
+Added Net: Name=CS
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=RST Pin=U1-23
+Added Net: Name=RST
+Added Pin To Net: NetName=SCK Pin=JP2-2
+Added Pin To Net: NetName=SCK Pin=U1-16
+Added Net: Name=SCK
+Added Pin To Net: NetName=SI Pin=U1-17
+Added Net: Name=SI
+Added Pin To Net: NetName=SO Pin=JP2-4
+Added Pin To Net: NetName=SO Pin=U1-18
+Added Net: Name=SO
+Added Member To Class: ClassName=schematic Member=Component JP2 JP8 PIN
+Added Member To Class: ClassName=schematic Member=Component JP3 JP8 PIN
+Added Member To Class: ClassName=schematic Member=Component U2 LM1117-3.3V

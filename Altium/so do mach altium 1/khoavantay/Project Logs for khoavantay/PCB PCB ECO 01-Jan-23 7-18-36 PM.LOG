@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=3.3V Pin=JP1-5
+Removed Pin From Net: NetName=3.3V Pin=JP1-7
+Change Component DesignItemId : Designator=JP1 Old DesignItemId=Header 4X2 New DesignItemId=JP8
+Change Component DesignItemId : Designator=JP3 Old DesignItemId=JP8 New DesignItemId=Header 4X2
+Change Component Footprint: Designator=JP1 Old Footprint=HDR2X4 New Footprint=JP8
+Change Component Footprint: Designator=JP3 Old Footprint=JP8 New Footprint=HDR2X4
+Change Component Comment : Designator=JP1 Old Comment=Connector 4x2 New Comment=JP8 PIN
+Change Component Comment : Designator=JP3 Old Comment=JP8 PIN New Comment=Connector 4x2
+Added Component: Designator=R2(tro smd 0603)
+Added Pin To Net: NetName=B4 Pin=JP1-5
+Added Pin To Net: NetName=B6 Pin=JP1-7
+Added Pin To Net: NetName=RX Pin=JP3-1
+Added Pin To Net: NetName=GND Pin=JP3-2
+Added Pin To Net: NetName=3.3V Pin=JP3-5
+Added Pin To Net: NetName=3.3V Pin=JP3-7
+Added Pin To Net: NetName=TX Pin=JP3-8
+Added Pin To Net: NetName=MCLR Pin=R1-1
+Added Pin To Net: NetName=5V Pin=R1-2
+Added Member To Class: ClassName=schematic Member=Component D2 Bridge1
+Added Member To Class: ClassName=schematic Member=Component IC1 LM7805
+Added Member To Class: ClassName=schematic Member=Component R2 10k

@@ -1,0 +1,6 @@
+Added Component: Designator=T1(TRANS)
+Added Pin To Net: NetName=NetD3_2 Pin=T1-1
+Added Pin To Net: NetName=NetD3_4 Pin=T1-2
+Added Pin To Net: NetName=N2 Pin=T1-3
+Added Pin To Net: NetName=N1 Pin=T1-4
+Added Member To Class: ClassName=schematic Member=Component T1 Trans

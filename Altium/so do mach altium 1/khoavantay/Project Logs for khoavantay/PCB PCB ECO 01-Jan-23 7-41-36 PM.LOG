@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=MCLR Pin=R1-1
+Added Component: Designator=R2(tro smd 0603)
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-1
+Added Pin To Net: NetName=MCLR Pin=R1-1
+Added Pin To Net: NetName=5V Pin=R1-2
+Added Member To Class: ClassName=schematic Member=Component R2 10k

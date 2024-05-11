@@ -1,0 +1,6 @@
+Compiling D:\DATN\filezip\PIC C compiler\Cuadatinhnang\main on 20-May-23 at 16:09
+>>> Warning 207 "D:\DATN\filezip\PIC C compiler\Cuadatinhnang\main.c" Line 361(1,1): Code has no effect
+>>> Warning 216 "D:\DATN\filezip\PIC C compiler\Cuadatinhnang\main.c" Line 582(1,2): Interrupts disabled during call to prevent re-entrancy:  (@DIV88)
+      Memory usage:   ROM=44%      RAM=25% - 35%
+      0 Errors,  2 Warnings.
+Build Successful.

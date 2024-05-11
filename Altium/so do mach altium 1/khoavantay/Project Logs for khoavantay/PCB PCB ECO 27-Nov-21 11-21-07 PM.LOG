@@ -1,0 +1,29 @@
+Added Component: Designator=U1(DIP.100/40/W.600/L2.100)
+Added Pin To Net: NetName=MCLR Pin=U1-1
+Added Pin To Net: NetName=A0 Pin=U1-2
+Added Pin To Net: NetName=A1 Pin=U1-3
+Added Pin To Net: NetName=5V Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=NetC3_2 Pin=U1-13
+Added Pin To Net: NetName=NetC4_2 Pin=U1-14
+Added Pin To Net: NetName=D0 Pin=U1-19
+Added Pin To Net: NetName=D1 Pin=U1-20
+Added Pin To Net: NetName=D2 Pin=U1-21
+Added Pin To Net: NetName=D3 Pin=U1-22
+Added Pin To Net: NetName=TX Pin=U1-25
+Added Pin To Net: NetName=RX Pin=U1-26
+Added Pin To Net: NetName=D4 Pin=U1-27
+Added Pin To Net: NetName=D5 Pin=U1-28
+Added Pin To Net: NetName=D6 Pin=U1-29
+Added Pin To Net: NetName=D7 Pin=U1-30
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=5V Pin=U1-32
+Added Pin To Net: NetName=B0 Pin=U1-33
+Added Pin To Net: NetName=B1 Pin=U1-34
+Added Pin To Net: NetName=B2 Pin=U1-35
+Added Pin To Net: NetName=B3 Pin=U1-36
+Added Pin To Net: NetName=B4 Pin=U1-37
+Added Pin To Net: NetName=B5 Pin=U1-38
+Added Pin To Net: NetName=B6 Pin=U1-39
+Added Pin To Net: NetName=B7 Pin=U1-40
+Added Member To Class: ClassName=schematic Member=Component U1 PIC16F877A-E/P
